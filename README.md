@@ -15,7 +15,7 @@ Quickly host a webpage to allow people to click and receive an invite to your Gi
 
 ### Get It Right Now
 
-[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/karentamrazyan/automated-github-organization-invites)
 
 All you have to do is
 
