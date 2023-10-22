@@ -1,5 +1,5 @@
 services:
 - type: web
-  runtime: image
+  runtime: ruby
   plan: free
   autoDeploy: false
