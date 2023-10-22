@@ -1,1 +1,4 @@
-autoDeploy: false
+services:
+- type: web
+  plan: free
+  autoDeploy: false
