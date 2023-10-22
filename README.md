@@ -1,6 +1,6 @@
 # Automated Github Organization (and Team) Invites
 
-> Quickly host a webpage to allow people to click and receive an invite to your Github Organization and an (optional) default team.
+Quickly host a webpage to allow people to click and receive an invite to your Github Organization and an (optional) default team.
 
 <p align="center">
   <img src="auto-invites-example-ui.png"/>
