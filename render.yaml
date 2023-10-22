@@ -1,4 +1,5 @@
 services:
 - type: web
+  runtime: image
   plan: free
   autoDeploy: false
