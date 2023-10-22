@@ -1,5 +1,6 @@
 services:
 - type: web
   runtime: ruby
+  name: sinatra
   plan: free
   autoDeploy: false
