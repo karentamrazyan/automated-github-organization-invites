@@ -1,9 +1,8 @@
 services:
 - type: web
   runtime: ruby
-  name: sinatra
+  name: invite2github
   plan: free
   autoDeploy: false
-  repo: https://github.com/renderinc/sinatra-example.git
   buildCommand: bundle install
   startCommand: bundle exec ruby web_app.rb
